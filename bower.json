@@ -1,0 +1,18 @@
+{
+  "name": "jquery-html5-placeholder-shim",
+  "version": "0.1.0",
+  "homepage": "https://github.com/infowrap/jquery-html5-placeholder-shim",
+  "authors": [
+    "John Campbell <jcampbell1@gmail.com>"
+  ],
+  "main": "jquery.html5-placeholder-shim.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
